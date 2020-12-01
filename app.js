@@ -6,9 +6,9 @@ class Player {
     }
 }
 //input players here
-const player1 = new Player('Teo', [], [])
+const player1 = new Player('Jessi', [], [])
 
-const player2 = new Player('Computer', [], [])
+const player2 = new Player('Christina', [], [])
 //this class is called upon in the class of deck, it is the object that each card is built off of
  class Card {
      constructor(suit, rank, value){
@@ -83,7 +83,6 @@ class WarGames {
         this.round = round;
     }
     playCard(){
-        //couldn't get the push command to work without saving the players cards in another variable
         // let player1PlayedCard = player1.playedCard;
         // let player2PlayedCard = player2.playedCard;
         if(player1.playedCard.length == 1 && player2.playedCard.length == 1){
