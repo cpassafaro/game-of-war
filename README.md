@@ -8,6 +8,7 @@ https://cpassafaro.github.io/game-of-war/
 
 ## Rules for the game of War:
 If you don't know how to play the card game war, read below through line 23. If you know the rules skip down to line 23 for the rules of playing on the computer!
+
 THE DEAL
 The deck is divided evenly, with each player receiving 26 cards, dealt one at a time, face down. Anyone may deal first. Each player places their stack of cards face down, in front of them.
 
